@@ -1,0 +1,7 @@
+{
+  "name": "app-health-monitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
